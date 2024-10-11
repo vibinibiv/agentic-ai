@@ -1,0 +1,6 @@
+audio/*
+scripts/*
+.env
+agentops.log
+!scripts/Agentic_Ai_News.txt
+!audio/agentic_ai_podcast.mp3

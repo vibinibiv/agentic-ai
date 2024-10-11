@@ -1,0 +1,6 @@
+#Microsoft Visual C++ 14.0 or greater is required
+#python=3.12.4
+crewai==0.22.5
+crewai-tools==0.0.15
+langchain_groq==0.0.1
+duckduckgo-search==6.2.13
